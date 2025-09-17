@@ -5,4 +5,7 @@ This is my first textfile
 This is my first textfile
 This is my first textfile
 This is my first textfile
+And now I have updated it
+And now I have updated it!
+Yes!
 v
